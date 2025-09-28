@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Faheem Ahmed]
 
 🎓 **PhD in Computational Bioinformatics & Chemistry** | 🧪 **Molecular Simulation Expert** | 🤖 **AI/LLM Engineer**  
 
