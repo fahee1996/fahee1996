@@ -2,7 +2,7 @@
 
 🎓 **PhD in Computational Bioinformatics & Chemistry** | 🧪 **Molecular Simulation Expert** | 🤖 **AI/LLM Engineer**  
 
-I am a professor, researcher, and consultant with **20+ years of experience** at the intersection of **computational chemistry, molecular modeling, and artificial intelligence**.  
+I am a professor, researcher, and consultant with **5+ years of experience** at the intersection of **computational chemistry, molecular modeling, and artificial intelligence**.  
 My work bridges **drug discovery, biomolecular simulations, and AI-powered retrieval systems**, contributing significantly to both **academic research** and **industrial innovation**.  
 
 ---
@@ -41,8 +41,8 @@ My work bridges **drug discovery, biomolecular simulations, and AI-powered retri
 
 ## 📫 Connect With Me
 - 🌐 Upwork: [My Upwork Profile](https://www.upwork.com/freelancers/~0198713a10400712d2)  
-- 💼 LinkedIn: [Your LinkedIn Profile]  
-- 📧 Email: [Your Professional Email]  
+- 💼 LinkedIn: [Your LinkedIn Profile(https://www.linkedin.com/in/faheem-ahmed-52220a114/)]  
+- 📧 Email: [ahmedfaheem791@gmail.com]  
 
 ---
 
