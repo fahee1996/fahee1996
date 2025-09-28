@@ -30,13 +30,6 @@ My work bridges **drug discovery, biomolecular simulations, and AI-powered retri
 - Integration with **Vector Databases**: Qdrant, Pinecone, FAISS  
 - AI Agents for **biomedical data retrieval, semantic search, and predictive modeling**  
 
----
-
-## 🎓 Teaching & Mentorship
-- **20+ years teaching** Physical Chemistry, Biochemistry, and Quantum Chemistry (BSc, MSc, PhD levels)  
-- Supervised **PhD & MSc theses** in computational chemistry, molecular biology, and drug discovery  
-
----
 
 ## 📈 What I Offer
 ✔ Cutting-edge **molecular simulation & drug design** expertise  
