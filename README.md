@@ -40,9 +40,9 @@ My work bridges **drug discovery, biomolecular simulations, and AI-powered retri
 ---
 
 ## 📫 Connect With Me
-- 🌐 Upwork: [My Upwork Profile](https://www.upwork.com/freelancers/~0198713a10400712d2)  
-- 💼 LinkedIn: [Your LinkedIn Profile(https://www.linkedin.com/in/faheem-ahmed-52220a114/)]  
-- 📧 Email: [ahmedfaheem791@gmail.com]  
+- 🌐 Upwork: (https://www.upwork.com/freelancers/~0198713a10400712d2)  
+- 💼 LinkedIn: (https://www.linkedin.com/in/faheem-ahmed-52220a114/)
+- 📧 Email: [faheeemahmedlangah@gmail.com]  
 
 ---
 
